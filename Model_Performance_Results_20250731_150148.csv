@@ -1,0 +1,6 @@
+Commodity,Model,R2_Score,RMSE,MAE,MAPE_Percent,Accuracy_Percent,Status
+Tomato,Best Model,0.9356,2.56,1.78,11.5,93.56,EXCELLENT
+Onion,Best Model,0.9478,2.08,1.41,7.2,94.78,EXCELLENT
+Cabbage,Best Model,0.9563,1.06,0.82,10.3,95.63,EXCELLENT
+Brinjal,Best Model,0.9704,1.97,1.38,7.4,97.04,EXCELLENT
+Potato,Best Model,0.957,1.04,0.78,4.6,95.7,EXCELLENT
