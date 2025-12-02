@@ -1,4 +1,4 @@
-# 📈 AgriPrice-Forecaster-ML: Agricultural Commodity Price Forecasting
+# 📈 Commodity-Price-Forecasting: Agricultural Commodity Price Forecasting
 
 This repository houses a comprehensive data science project focused on developing **high-accuracy predictive models for key agricultural commodity prices**. By analyzing historical market data and leveraging advanced machine learning algorithms, this system provides crucial forecasts for farmers, traders, and policymakers.
 
